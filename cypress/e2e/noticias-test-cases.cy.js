@@ -47,7 +47,7 @@ describe('template spec', () => {
   });
 
   // second test case
-  it('accessing the notice register page and registering an notice without "categoriaParque1"', () => {
+  it('accessing the notice register page and trying register an notice with empty fields', () => {
     const forceTrue = { force: true };
 
     cy.get('.main-menu > #side-main-menu > li:nth-child(2) > a').click(forceTrue)
