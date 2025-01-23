@@ -10,7 +10,7 @@
 npm install
 ```
 
-- Há duas formas de executar o projeto.
+- Ainda no terminal, é possível executar os testes de duas formas.
 1. Via terminal:
 ```shell
 npx cypress run
