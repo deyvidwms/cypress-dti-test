@@ -24,5 +24,5 @@ npx cypress open
 
 Para ver o funcionamento dos testes via interface gráfica consultar os videos abaixo:
 
-1. [Execução dos testes da pagina de notícias](Link).
-2. [Execução dos testes da página de editais](Link).
+1. [Execução dos testes via terminal](Link).
+2. [Execução dos testes via interface gráfica](Link).
