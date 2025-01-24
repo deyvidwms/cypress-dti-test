@@ -24,5 +24,5 @@ npx cypress open
 
 Para ver o funcionamento dos testes via interface gráfica consultar os videos abaixo:
 
-1. [Execução dos testes via terminal](Link).
-2. [Execução dos testes via interface gráfica](Link).
+1. [Execução dos testes via terminal](https://youtu.be/RKZ9_zjn8NY?t=34).
+2. [Execução dos testes via interface gráfica](https://youtu.be/RKZ9_zjn8NY?t=82).
